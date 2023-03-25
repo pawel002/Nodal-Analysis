@@ -38,6 +38,8 @@ Two gifs which show the process of "untangling" the graph.
 
 
 https://user-images.githubusercontent.com/95650330/227727781-e8fa7a30-e31a-4843-bb99-52c6f9321b94.mp4
+
+
 https://user-images.githubusercontent.com/95650330/227727790-c0746151-30a8-4d6b-87a2-6e12c7ad02fb.mp4
 
 Here are some end results that I got using this program.
