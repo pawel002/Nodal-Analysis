@@ -44,5 +44,5 @@ https://user-images.githubusercontent.com/95650330/227727790-c0746151-30a8-4d6b-
 
 Here are some end results that I got using this program.
 
-<img src="https://github.com/pawel002/Nodal-Analysis/blob/main/graphs.png?raw=true" align="center"> <\img>
+<img src="https://github.com/pawel002/Nodal-Analysis/blob/main/graphs.png?raw=true" align="center">
 
